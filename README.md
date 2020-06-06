@@ -1,2 +1,2 @@
 # QuoteGenerator
-Random Quote Generator
+Random Quote Generator using Node JS
